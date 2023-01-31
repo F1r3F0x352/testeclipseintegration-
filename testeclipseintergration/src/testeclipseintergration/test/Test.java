@@ -7,6 +7,8 @@ public class Test {
 		ClassA classA = new ClassA("ABCDEF");
 		
 		System.out.println(classA.getAbc());
+		
+		System.out.println("We try pulling");
 	}
 
 }
